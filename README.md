@@ -9,13 +9,15 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 ---
 
 ## 👥 Equipe e Papéis
-| Integrante | Papel no Projeto | GitHub |
+| Integrante | GitHub |
 | :--- | :--- | :--- |
-| **[Seu Nome/Nome 1]** | Desenvolvedor / Scrum Master | [@UserGithub](https://github.com/) |
-| **[Nome 2]** | Product Owner / Documentação | [@UserGithub](https://github.com/) |
-| **[Nome 3]** | Desenvolvedor Back-end | [@UserGithub](https://github.com/) |
-| **[Nome 4]** | UI/UX / Prototipação | [@UserGithub](https://github.com/) |
-| **[Nome 5]** | Desenvolvedor Front-end | [@UserGithub](https://github.com/) |
+| **[Téo Buonora]** | [@UserGithub](https://github.com/teobuonora) |
+| **[Rafael Gurgel]** | [@UserGithub](https://github.com/) |
+| **[Lucas Soares]** | [@UserGithub](https://github.com/LSP4-EXVI) |
+| **[João Gabriel de Melo]** | [@UserGithub](https://github.com/jgml329) |
+| **[Rubens Souza]** | [@UserGithub](https://github.com/) |
+| **[Heitor Da'Albuquerque]** | [@UserGithub](https://github.com/) |
+| **[Pedro Peixoto]** | [@UserGithub](https://github.com/) |
 
 ---
 
@@ -48,7 +50,8 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 
 ### 1. Visão Geral do Board (Kanban)
 *(Insira aqui o link ou a imagem direta do quadro geral da sua equipe com as colunas, como a imagem PNG que geramos anteriormente)*
-![Print do Board](link_ou_caminho_da_imagem_do_board.png)
+![Print do Board](<img width="1709" height="822" alt="image" src="https://github.com/user-attachments/assets/44e4cf09-828e-44e1-b1cf-406c05f46829" />
+)
 
 ### 2. Backlog Priorizado
 *(Insira aqui o print mostrando que as 15 histórias estão cadastradas e organizadas por prioridade dentro da ferramenta)*
