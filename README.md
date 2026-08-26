@@ -53,7 +53,8 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 
 
 ### 2. Backlog Priorizado
-<img width="1075" height="822" alt="image" src="https://github.com/user-attachments/assets/1081b2fc-5e57-438e-b939-9f2fed2da2ad" />
+<img width="1505" height="853" alt="image" src="https://github.com/user-attachments/assets/d525fc73-faaa-4f47-98ca-7ecd8286907e" />
+
 
 
 ---
