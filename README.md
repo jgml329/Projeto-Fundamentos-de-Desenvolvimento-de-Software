@@ -24,6 +24,18 @@ Quem é mais afetado: a gestão da VISAT (que perde a visão do todo), a equipe 
 ## 🎯 Objetivo geral
 
 Desenvolver um sistema para organizar e acompanhar as demandas da VISAT, facilitando o controle de prazos, responsáveis e status das solicitações.
+## Funcionalidades para o sistema:
+- Cadastro e Edição de Solicitações de Inspeção
+- Quadro Visual Interativo (Kanban) para Controle de Status
+- Atribuição de Demandas a Inspetores Específicos
+- Upload de Relatórios Técnicos e Pareceres Textuais
+- Alertas Visuais para Prazos de Resposta Próximos ao Vencimento
+- Monitoramento da Carga de Trabalho Ativa por Inspetor
+- Cadastro e Filtros por Órgão Solicitante (MPT, TRT, etc.)
+- Log de Auditoria com Histórico de Alterações em Cada Demanda
+- Busca Rápida por Número de Protocolo
+- Arquivamento de Demandas Inválidas ou Duplicadas
+- Login e Controle de Acesso Restrito a Servidores
 
 ## Acompanhamento de entregáveis semanais:
 [google sites](https://sites.google.com/cesar.school/g2projetos2/home/sr1?authuser=3&pli=1)
