@@ -21,7 +21,7 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 
 ---
 
-## 🚀 Funcionalidades (Backlog Priorizado)
+## 🚀 Funcionalidades
 
 1. **Cadastro e Edição de Solicitações de Inspeção** (Origem, Prazos e Protocolo).
 2. **Quadro Visual Interativo (Kanban)** para Controle de Status da demanda.
