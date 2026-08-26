@@ -1,51 +1,59 @@
-# Sistema de Gestão de Demandas – VISAT/CEREST Recife
-____________________________________________________
+# 📋 VISAT
+---
 
-Projeto desenvolvido para a disciplina Projetos 2, em parceria com a Secretaria Executiva de Vigilância em Saúde / Secretaria de Saúde do Recife.
+## 🎯 Sobre o Produto
+Uma aplicação web desenvolvida especificamente para a **Secretaria Executiva de Vigilância em Saúde do Trabalhador (VISAT) / Secretaria de Saúde do Recife**. 
 
-## 📋 Sobre a empresa
+A ferramenta centraliza o recebimento de demandas de órgãos de controle e articulação (MPT, TRT, Conselhos, Sindicatos), gerencia a execução das inspeções pela equipe técnica e fornece painéis com indicadores de tempo real. O objetivo é evitar a perda de prazos legais, rastrear a carga de trabalho e extinguir o uso de planilhas locais para gestão de processos institucionais.
 
-A Vigilância em Saúde é uma das áreas da Secretaria de Saúde do Recife. Sua missão é promover e proteger a saúde da população por meio de monitoramento, prevenção e controle de riscos, agravos, doenças e eventos de interesse à saúde, com governança fortalecida, transparência, participação social e cuidado integral. Um dos seus objetivos é promover inovação e transformação digital, qualificando informações, processos de trabalho e a agilidade das ações de vigilância em saúde.
+---
 
-## ❗ Descrição do problema
+## 👥 Equipe e Papéis
+| Integrante | Papel no Projeto | GitHub |
+| :--- | :--- | :--- |
+| **[Seu Nome/Nome 1]** | Desenvolvedor / Scrum Master | [@UserGithub](https://github.com/) |
+| **[Nome 2]** | Product Owner / Documentação | [@UserGithub](https://github.com/) |
+| **[Nome 3]** | Desenvolvedor Back-end | [@UserGithub](https://github.com/) |
+| **[Nome 4]** | UI/UX / Prototipação | [@UserGithub](https://github.com/) |
+| **[Nome 5]** | Desenvolvedor Front-end | [@UserGithub](https://github.com/) |
 
-A Vigilância em Saúde do Trabalhador (VISAT) recebe diversas solicitações de inspeções e pareceres técnicos — vindas do Ministério Público do Trabalho, Tribunal Regional do Trabalho, Conselhos de Saúde e Sindicatos —, mas não possui um sistema centralizado para acompanhar essas demandas. Atualmente o controle é feito por processos administrativos e planilhas, dificultando o acompanhamento dos prazos, da carga de trabalho e das solicitações concluídas ou atrasadas.
+---
 
-## Consequências principais:
+## 🚀 Funcionalidades (Backlog Priorizado)
 
-Risco de perda de prazos legais;
-Dificuldade de visualizar a carga de trabalho da equipe de campo (inspetores);
-Demora no retorno à sociedade e aos órgãos demandantes;
-Rastreabilidade falha e ausência de indicadores automatizados de desempenho;
-Abalo à credibilidade institucional e vulnerabilidade jurídica — cumprir prazos e responder de forma qualificada ao MPT e outros órgãos é pilar da atuação do CEREST/VISAT.
+1. **Cadastro e Edição de Solicitações de Inspeção** (Origem, Prazos e Protocolo).
+2. **Quadro Visual Interativo (Kanban)** para Controle de Status da demanda.
+3. **Atribuição de Demandas a Inspetores Específicos** da equipe de campo.
+4. **Upload de Relatórios Técnicos** e pareceres textuais integrados ao card.
+5. **Alertas Visuais para Prazos** com vencimento iminente (evitando quebra de prazo legal).
+6. **Monitoramento da Carga de Trabalho Ativa** por inspetor.
+7. **Cadastro e Filtros por Órgão Solicitante** (Ex: Filtrar apenas MPT).
+8. **Log de Auditoria** contendo o histórico de alterações em cada demanda.
+9. **Busca Rápida por Número de Protocolo**.
+10. **Arquivamento de Demandas Inválidas** ou duplicadas.
+11. **Login e Controle de Acesso Restrito** a servidores autorizados da VISAT.
+*(Para ver a especificação completa e os critérios de aceitação de cada história, consulte a aba de Issues/Projects).*
 
-Quem é mais afetado: a gestão da VISAT (que perde a visão do todo), a equipe de inspeção e os procuradores/conselheiros que aguardam os relatórios técnicos.
+---
 
-## 🎯 Objetivo geral
+## 🛠️ Ferramentas Utilizadas
 
-Desenvolver um sistema para organizar e acompanhar as demandas da VISAT, facilitando o controle de prazos, responsáveis e status das solicitações.
-## Funcionalidades para o sistema:
-- Cadastro e Edição de Solicitações de Inspeção
-- Quadro Visual Interativo (Kanban) para Controle de Status
-- Atribuição de Demandas a Inspetores Específicos
-- Upload de Relatórios Técnicos e Pareceres Textuais
-- Alertas Visuais para Prazos de Resposta Próximos ao Vencimento
-- Monitoramento da Carga de Trabalho Ativa por Inspetor
-- Cadastro e Filtros por Órgão Solicitante (MPT, TRT, etc.)
-- Log de Auditoria com Histórico de Alterações em Cada Demanda
-- Busca Rápida por Número de Protocolo
-- Arquivamento de Demandas Inválidas ou Duplicadas
-- Login e Controle de Acesso Restrito a Servidores
+- **Gestão Ágil / Board:** [Trello]
+- **Design / Prototipação:** [Lovable]
+- **Versionamento:** Git / GitHub
 
-## Acompanhamento de entregáveis semanais:
-[google sites](https://sites.google.com/cesar.school/g2projetos2/home/sr1?authuser=3&pli=1)
+---
 
-## 👥 Equipe (Grupo 2)
-Nomes:
-- Téo Buonora
--  Pedro Henrique Peixoto
-- Rafael Gurgel
-- Heitor Torres D'Albuquerque
-- João Gabriel de Melo Lima
-- Lucas Soares Pereira
-- Rubens Sousa Carvalho da Rocha
+## 📸 Evidências
+
+### 1. Visão Geral do Board (Kanban)
+*(Insira aqui o link ou a imagem direta do quadro geral da sua equipe com as colunas, como a imagem PNG que geramos anteriormente)*
+![Print do Board](link_ou_caminho_da_imagem_do_board.png)
+
+### 2. Backlog Priorizado
+*(Insira aqui o print mostrando que as 15 histórias estão cadastradas e organizadas por prioridade dentro da ferramenta)*
+![Print do Backlog](link_ou_caminho_da_imagem_do_backlog.png)
+
+---
+
+## ⚙️ Como executar o projeto (Em Breve)
