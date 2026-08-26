@@ -1,4 +1,6 @@
-# 📋 VISAT
+<img width="1408" height="768" alt="Gemini_Generated_Image_lgc4crlgc4crlgc4" src="https://github.com/user-attachments/assets/1150479c-7a18-4052-80ed-24d0b8ca0e08" />
+
+# 📋 SENTINELA
 ---
 
 ## 🎯 Sobre o Produto
