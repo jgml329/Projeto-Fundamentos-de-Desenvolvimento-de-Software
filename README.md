@@ -9,15 +9,15 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 ---
 
 ## 👥 Equipe e Papéis
-| Integrante | GitHub |
-| :--- | :--- |
-| **[Téo Buonora]** | [@UserGithub](https://github.com/teobuonora) |
-| **[Rafael Gurgel]** | [@UserGithub](https://github.com/) |
-| **[Lucas Soares]** | [@UserGithub](https://github.com/LSP4-EXVI) |
-| **[João Gabriel de Melo]** | [@UserGithub](https://github.com/jgml329) |
-| **[Rubens Souza]** | [@UserGithub](https://github.com/) |
-| **[Heitor Da'Albuquerque]** | [@UserGithub](https://github.com/) |
-| **[Pedro Peixoto]** | [@UserGithub](https://github.com/) |
+| Integrante | Função | GitHub |
+| :--- | :--- | :--- |
+| **[Téo Buonora]** | Product Owner |  [@UserGithub](https://github.com/teobuonora) |
+| **[Rafael Gurgel]** | Scrum Master | [@UserGithub](https://github.com/RafaelGMedeiros) |
+| **[Lucas Soares]** | Líder de Front-end & UI/UX | [@UserGithub](https://github.com/LSP4-EXVI) |
+| **[João Gabriel de Melo]** | Desenvolvedor Front-end | [@UserGithub](https://github.com/jgml329) |
+| **[Rubens Souza]** | Líder de Back-end & Arquitetura | [@UserGithub](https://github.com/rscr-jpg) |
+| **[Heitor Da'Albuquerque]** | Desenvolvedor Back-end | [@UserGithub](https://github.com/heitortorresdev) |
+| **[Pedro Peixoto]** | QA & Documentação | [@UserGithub](https://github.com/) |
 
 ---
 
