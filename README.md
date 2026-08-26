@@ -16,7 +16,7 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 | **[Lucas Soares]** | Líder de Front-end & UI/UX | [@Github](https://github.com/LSP4-EXVI) |
 | **[João Gabriel de Melo]** | Desenvolvedor Front-end | [@Github](https://github.com/jgml329) |
 | **[Rubens Souza]** | Líder de Back-end & Arquitetura | [@Github](https://github.com/rscr-jpg) |
-| **[Heitor Da'Albuquerque]** | Desenvolvedor Back-end | [@Github](https://github.com/heitortorresdev) |
+| **[Heitor D'Albuquerque]** | Desenvolvedor Back-end | [@Github](https://github.com/heitortorresdev) |
 | **[Pedro Peixoto]** | QA & Documentação | [@Github](https://github.com/) |
 
 ---
