@@ -10,7 +10,7 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 
 ## 👥 Equipe e Papéis
 | Integrante | GitHub |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **[Téo Buonora]** | [@UserGithub](https://github.com/teobuonora) |
 | **[Rafael Gurgel]** | [@UserGithub](https://github.com/) |
 | **[Lucas Soares]** | [@UserGithub](https://github.com/LSP4-EXVI) |
