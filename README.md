@@ -53,8 +53,8 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 
 
 ### 2. Backlog Priorizado
-*(Insira aqui o print mostrando que as 15 histórias estão cadastradas e organizadas por prioridade dentro da ferramenta)*
-![Print do Backlog](link_ou_caminho_da_imagem_do_backlog.png)
+<img width="1075" height="822" alt="image" src="https://github.com/user-attachments/assets/1081b2fc-5e57-438e-b939-9f2fed2da2ad" />
+
 
 ---
 
