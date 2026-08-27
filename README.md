@@ -44,15 +44,13 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 15. **Log de Auditoria e Histórico**
 16. **Exportação de Relatórios Gerenciais**
 
-*(Para ver a especificação completa e os critérios de aceitação de cada história, consulte a aba de Issues/Projects).*
-
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 
 - **Gestão Ágil / Board:** [Trello]
 - **Design / Prototipação:** [Lovable]
-- **Versionamento:** Git / GitHub
+- **Versionamento:** [Git / GitHub]
 
 ---
 
