@@ -27,22 +27,24 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 
 ---
 
-1. **Cadastro de Solicitações de Inspeção:** Registro de novas demandas informando origem, prazos legais e número de protocolo.
-2. **Quadro Visual Interativo (Kanban):** Interface central para controle de status, permitindo mover os cards pelas etapas do processo.
-3. **Atribuição de Demandas a Inspetores:** Vinculação de membros específicos da equipe de campo a cada solicitação.
-4. **Upload de Relatórios Técnicos:** Inserção de arquivos PDF com laudos anexados diretamente ao card da demanda.
-5. **Alertas Visuais para Prazos:** Sinalização automática para demandas com vencimento iminente (evitando quebra de prazo legal).
-6. **Monitoramento da Carga de Trabalho:** Visualização da quantidade de vistorias ativas atribuídas a cada inspetor da equipe.
-7. **Cadastro de Órgãos Solicitantes:** Gerenciamento da lista padronizada de instituições demandantes (Ex: MPT, TRT, Conselhos).
-8. **Filtro de Demandas por Órgão:** Visualização do quadro focada apenas nas solicitações de uma instituição específica.
-9. **Edição de Informações da Demanda:** Atualização e correção de dados em solicitações que já foram cadastradas.
-10. **Inserção de Pareceres Textuais:** Área para adicionar resumos e atualizações rápidas em texto no próprio card.
-11. **Registro de Retorno Institucional:** Marcação da demanda formalmente como "Respondida" para encerrar o fluxo no sistema.
-12. **Busca Rápida por Número de Protocolo:** Ferramenta para localizar instantaneamente processos antigos ou em andamento.
-13. **Arquivamento de Demandas Inválidas:** Ocultação de cards criados em duplicidade ou com erros, limpando o quadro principal.
-14. **Login e Autenticação de Usuário:** Controle de acesso seguro e restrito apenas a servidores e técnicos autorizados.
-15. **Log de Auditoria e Histórico:** Registro temporal de todas as alterações feitas na demanda, indicando o usuário responsável e a data.
-16. **Exportação de Relatórios Gerenciais:** Geração de arquivos em PDF ou CSV listando demandas filtradas para prestação de contas. *(Para ver a especificação completa e os critérios de aceitação de cada história, consulte a aba de Issues/Projects).*
+1. **Cadastro de Solicitações de Inspeção**
+2. **Quadro Visual Interativo (Kanban)**
+3. **Atribuição de Demandas a Inspetores**
+4. **Upload de Relatórios Técnicos**
+5. **Alertas Visuais para Prazos**
+6. **Monitoramento da Carga de Trabalho**
+7. **Cadastro de Órgãos Solicitantes**
+8. **Filtro de Demandas por Órgão**
+9. **Edição de Informações da Demanda**
+10. **Inserção de Pareceres Textuais**
+11. **Registro de Retorno Institucional**
+12. **Busca Rápida por Número de Protocolo**
+13. **Arquivamento de Demandas Inválidas**
+14. **Login e Autenticação de Usuário**
+15. **Log de Auditoria e Histórico**
+16. **Exportação de Relatórios Gerenciais**
+
+*(Para ver a especificação completa e os critérios de aceitação de cada história, consulte a aba de Issues/Projects).*
 
 ---
 
