@@ -68,7 +68,7 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
   https://www.figma.com/board/XjwKd8ciVyNiVvgoSj8sBp/Sem-t%25C3%25ADtulo?node-id=0-1&p=f&t=Hu4MZhnQXKMuzPST-0
 
 ## 4. ▶ Protótipo
-  https://lovable.dev/preview/Xq4I6ksvK6La3Mlxc0YD6ap7itFLApg3
+https://visat-sentinel-hub.lovable.app
 
 ---
 
