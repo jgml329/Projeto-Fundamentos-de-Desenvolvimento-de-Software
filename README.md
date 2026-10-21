@@ -13,12 +13,12 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 ## 👥 Equipe e Papéis
 | Integrante | Função | GitHub |
 | :--- | :--- | :--- |
-| **[Téo Buonora]** | Product Owner |  [@Github](https://github.com/teobuonora) |
+| **[Téo Buonora]** | Desenvolvedor Back-end |  [@Github](https://github.com/teobuonora) |
 | **[Rafael Gurgel]** | Scrum Master | [@Github](https://github.com/RafaelGMedeiros) |
 | **[Lucas Soares]** | Líder de Front-end & UI/UX | [@Github](https://github.com/LSP4-EXVI) |
 | **[João Gabriel de Melo]** | Desenvolvedor Front-end | [@Github](https://github.com/jgml329) |
 | **[Rubens Souza]** | Líder de Back-end & Arquitetura | [@Github](https://github.com/rscr-jpg) |
-| **[Heitor D'Albuquerque]** | Desenvolvedor Back-end | [@Github](https://github.com/heitortorresdev) |
+| **[Heitor D'Albuquerque]** | Product Owner | [@Github](https://github.com/heitortorresdev) |
 | **[Pedro Peixoto]** | QA & Documentação | [@Github](https://github.com/) |
 
 ---
@@ -28,7 +28,7 @@ A ferramenta centraliza o recebimento de demandas de órgãos de controle e arti
 ---
 
 1. **Cadastro de Solicitações de Inspeção**
-2. **Quadro Visual Interativo (Kanban)**
+2. **Quadro Visual Interativo**
 3. **Atribuição de Demandas a Inspetores**
 4. **Upload de Relatórios Técnicos**
 5. **Alertas Visuais para Prazos**
